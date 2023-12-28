@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Milap-Magar
 - 👀 I’m interested in coding and desgining.
 - 🌱 I’m currently learning React.js and Node.js.
-- 💞️ I’m a 2nd semester college student.
+- 💞️ I’m a 4th semester college student.
 - 📫 How to reach me readonlypls@gmail.com
 
 <!---
