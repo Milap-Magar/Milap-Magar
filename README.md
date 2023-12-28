@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milap Magar</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 
-- 🔭 I’m currently working on [Complain Management System](git remote add origin https://github.com/Milap-Magar/Complain-Management-System.git)
+- 🔭 I’m currently working on Complain Management System (https://github.com/Milap-Magar/Complain-Management-System.git)
 
 - 🌱 I’m currently learning **NextJs and Figma**
 
