@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milap Magar</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milap-magar&label=Profile%20views&color=0e75b6&style=flat" alt="milap-magar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milap-magar" alt="milap-magar" /></a> </p>
-
 - 🔭 I’m currently working on [Complain Management System](git remote add origin https://github.com/Milap-Magar/Complain-Management-System.git)
 
 - 🌱 I’m currently learning **NextJs and Figma**
