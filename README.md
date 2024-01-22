@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **milapmagar12@gmail.com**
 
-<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
+<img src="https://media1.tenor.com/m/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif
 "/>
 
 <h3 align="left">Connect with me:</h3>
