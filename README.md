@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **milapmagar12@gmail.com**
 
+<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
+"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/milap2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milap2023" height="30" width="40" /></a>
