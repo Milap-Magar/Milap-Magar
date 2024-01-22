@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **milapmagar12@gmail.com**
 
-<img src="https://media1.tenor.com/m/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif" alt="me" width="200" height="200">
 <img src="https://media.tenor.com/g2083H8SdbMAAAAi/rabbit-animal.gif" alt="me" width="200" height="200">
 
 <h3 align="left">Connect with me:</h3>
