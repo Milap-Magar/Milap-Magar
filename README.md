@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Complain Management System (https://github.com/Milap-Magar/Complain-Management-System.git)
 
-- 🌱 I’m currently learning **NextJs and Figma**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://milap-magar.netlify.app/](https://milap-magar.netlify.app/)
 
