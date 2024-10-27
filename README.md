@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👨‍💻 All of my projects are available at [https://milap-magar.netlify.app/](https://milap-magar.netlify.app/)
+- 👨‍💻 Visit my portfolio: [https://milap-magar.netlify.app/](https://milap-magar.netlify.app/)
 
 - 💬 Ask me about **ReactJs & Tailwind**
 
