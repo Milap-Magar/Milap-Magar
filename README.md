@@ -64,7 +64,6 @@
      <a href="https://github.com/Milap-Magar/Campus-Event-Management-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Milap-Magar&repo=Campus-Event-Management-System&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Campus Event Management System"></a>
     <a href="https://github.com/Milap-Magar/milexia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Milap-Magar&repo=milexia&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="ChatBot"></a>
    <a href="https://github.com/Milap-Magar/Complain-Management-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Milap-Magar&repo=Complain-Management-System&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Complain Management System"></a>
-   <a href="https://github.com/Milap-Magar/ecommerce"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Milap-Magar&repo=ecommerce&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Ecom Store"></a>
   </p>
 
 ## Technologies & Tools
