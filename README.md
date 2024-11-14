@@ -39,7 +39,7 @@
   
 ## What I'm Doing
 
-- 🔭 Working on MIlexia Chat AI bot.
+- 🔭 Working on Vault .Inc.
 - 🌱 Learning Typescript
 - 📫 How to contact me: milapmagar12@gmail.com
 
