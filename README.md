@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/milaapeeey/" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/milap-magar-21427a229/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.pinterest.com/milapeeey/" target="_blank"><img alt="Pinterest" title="Pinterest" src="https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
-  <a href="https://milap-magar.netlify.app/" target="_blank"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="https://milapmagar.com.np/" target="_blank"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 </p>
 
  
