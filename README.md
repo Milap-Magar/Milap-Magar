@@ -39,9 +39,9 @@
   
 ## What I'm Doing
 
-- 🔭 Working on Vault .Inc.
-- 🌱 Learning Typescript
-- 📫 How to contact me: milapmagar12@gmail.com
+- 🔭 Working on Chatblix.
+- 🌱 Learning DSA.
+- 📫 How to contact me: info@milapmagar.com.np
 
 ## Languages and Tools
 
