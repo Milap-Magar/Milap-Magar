@@ -1,82 +1,118 @@
-## Introduction
+<div align="center">
+
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:cba6f7&height=220&section=header&text=Milap%20Magar&fontSize=55&fontColor=cdd6f4&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Systems&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Dynamic Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=22&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full-Stack+%26+Systems;Building+Chatblix+%E2%80%94+Multi-Channel+Messaging+SaaS;Java+%2F+Spring+Boot+%2F+Node.js+%2F+TypeScript;Sharpening+Data+Structures+%26+Algorithms;Designing+Scalable+System+Architecture" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Badges -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=I'm%20a%20Software-Developer;Software%20Developer;Used%20by%20over%20100,000%20users;1%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+  <a href="mailto:info@milapmagar.com.np"><img src="https://img.shields.io/badge/Email-info%40milapmagar.com.np-CBA6F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e"/></a>
+  <a href="https://milapmagar.com.np/"><img src="https://img.shields.io/badge/Portfolio-milapmagar.com.np-89B4FA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1e2e"/></a>
+  <a href="https://www.linkedin.com/in/milap-magar-21427a229"><img src="https://img.shields.io/badge/LinkedIn-Connect-A6E3A1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e"/></a>
+  <a href="https://instagram.com/milaapeeey"><img src="https://img.shields.io/badge/Instagram-milaapeeey-F5C2E7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1e2e"/></a>
 </p>
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/Milap-Magar">Milap Magar</a></h3>
-<h5 align="center">Below are my Social Accounts:</h5>
+</div>
 
-<p align="center">
-  <a href="https://www.instagram.com/milaapeeey/" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/milap-magar-21427a229/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.pinterest.com/milapeeey/" target="_blank"><img alt="Pinterest" title="Pinterest" src="https://img.shields.io/badge/-Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
-  <a href="https://milapmagar.com.np/" target="_blank"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-</p>
+<br/>
 
- 
-## Profile Views
+## 👨‍💻 About Me
 
+I'm a **Software Engineer** with **3+ years of experience** across **full-stack development and systems-level architecture** — not just UI work. I design and build production systems end-to-end: REST/API backends, data modeling, authentication flows, and the frontend layers that sit on top of them.
 
-  <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
-        </b>
-      </td> -->
-      <!-- Profile Views -->
-      <td>
-         <a href="https://github.com/Milap-Magar"> <img src="https://komarev.com/ghpvc/?username=milap-magar&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
-  
-## What I'm Doing
+- 🚀 Currently building **Chatblix** — a multi-channel customer messaging SaaS platform
+- 🧠 Actively sharpening **Data Structures & Algorithms**
+- 🏗️ Focused on scalable **full-stack system architecture**
+- 🌱 Always shipping — check my pinned repos below
+- 📫 Reach me at **info@milapmagar.com.np**
 
-- 🔭 Working on Chatblix.
-- 🌱 Learning DSA.
-- 📫 How to contact me: info@milapmagar.com.np
+<br/>
 
-## Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="left"> <a href="https://github.com/Milap-Magar"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs,react,nextjs,java,spring,tailwindcss,mui,threejs,redux"> </a> </p>
+<table align="center">
+<tr>
+<td valign="top" width="25%">
 
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Milap-Magar&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
+**Languages**
 
-## Activity On GitHub
+<img src="https://skillicons.dev/icons?i=java,ts,js" /><br/>
 
-<p align="center">
-  <a href="https://github.com/Milap-Magar">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Milap-Magar&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
+</td>
+<td valign="top" width="25%">
 
-## Top Repositories
-<p align="left">
-   <a href="https://github.com/Milap-Magar/Campus-Event-Management-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Milap-Magar&repo=Campus-Event-Management-System&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Campus Event Management System"></a>
-   <a href="https://github.com/Milap-Magar/milexia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Milap-Magar&repo=milexia&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="ChatBot"></a>
-   <a href="https://github.com/Milap-Magar/Complain-Management-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Milap-Magar&repo=Complain-Management-System&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Complain Management System"></a>
-   <a href="https://github.com/Milap-Magar/Vault"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Milap-Magar&repo=Vault&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Vault"></a>
-</p>
+**Backend & Databases**
 
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb" /><br/>
 
-## Technologies & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</p>
+</td>
+<td valign="top" width="25%">
+
+**Frontend & UI**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,threejs,redux" /><br/>
+
+</td>
+<td valign="top" width="25%">
+
+**Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" /><br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Milap-Magar&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milap-Magar&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" width="42%"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Milap-Magar&theme=catppuccin-mocha&hide_border=true" width="60%"/>
+</div>
+
+<br/>
+
+## 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/Milap-Magar/Campus-Event-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milap-Magar&repo=Campus-Event-Management-System&theme=catppuccin_mocha&hide_border=true" />
+  </a>
+  <a href="https://github.com/Milap-Magar/milexia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milap-Magar&repo=milexia&theme=catppuccin_mocha&hide_border=true" />
+  </a>
+  <a href="https://github.com/Milap-Magar/Complain-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milap-Magar&repo=Complain-Management-System&theme=catppuccin_mocha&hide_border=true" />
+  </a>
+  <a href="https://github.com/Milap-Magar/Vault">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milap-Magar&repo=Vault&theme=catppuccin_mocha&hide_border=true" />
+  </a>
+  <a href="https://github.com/Milap-Magar/pixsift">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milap-Magar&repo=pixsift&theme=catppuccin_mocha&hide_border=true" />
+  </a>
+  <a href="https://github.com/Milap-Magar/shreejana-home-packing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milap-Magar&repo=shreejana-home-packing&theme=catppuccin_mocha&hide_border=true" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,100:1e1e2e&height=120&section=footer"/>
+</div>
+
+<div align="center">
+  <sub>⚡ Built with logic, shipped with intent — Milap Magar</sub>
+</div>
