@@ -45,6 +45,7 @@ I'm a **Software Engineer** with **3+ years of experience** across **full-stack 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Frontend & UI**
@@ -52,9 +53,8 @@ I'm a **Software Engineer** with **3+ years of experience** across **full-stack 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-20232A?style=for-the-badge&logo=zustand&logoColor=white)
 
 **Developer Tools**
 
@@ -65,11 +65,6 @@ I'm a **Software Engineer** with **3+ years of experience** across **full-stack 
 <br/>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Milap-Magar&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milap-Magar&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8&cache_seconds=1800" width="42%"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Milap-Magar&theme=catppuccin-mocha&hide_border=true" width="60%"/>
