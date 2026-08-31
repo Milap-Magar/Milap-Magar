@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:cba6f7&height=220&section=header&text=Milap%20Magar&fontSize=55&fontColor=cdd6f4&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:cba6f7&height=220&section=header&text=Milap%20Magar&fontSize=55&fontColor=cdd6f4&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Systems&descAlignY=55&descSize=18" width="100%"/> -->
 
 <!-- Dynamic Typing Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=CBA6F7&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full-Stack+%26+Systems;Building+Chatblix+%E2%80%94+Multi-Channel+Messaging+SaaS;Java+%2F+Spring+Boot+%2F+Node.js+%2F+TypeScript;Sharpening+Data+Structures+%26+Algorithms;Designing+Scalable+System+Architecture" alt="Typing SVG"/>
