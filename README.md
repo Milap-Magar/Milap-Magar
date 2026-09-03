@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** with **3+ years of experience** across **full-stack development and systems-level architecture** — not just UI work. I design and build production systems end-to-end: REST/API backends, data modeling, authentication flows, and the frontend layers that sit on top of them.
+I'm a **Software Engineer** with **2+ years of experience** across **full-stack development and systems-level architecture** — not just UI work. I design and build production systems end-to-end: REST/API backends, data modeling, authentication flows, and the frontend layers that sit on top of them.
 
 - 🚀 Currently building **Chatblix** — a multi-channel customer messaging SaaS platform
 - 🧠 Actively sharpening **Data Structures & Algorithms**
