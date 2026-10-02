@@ -82,9 +82,6 @@ I'm a **Software Engineer** with **2+ years of experience** across **full-stack 
 | Repository | Description | Link |
 |---|---|---|
 | 🎓 **Campus-Event-Management-System** | Event management platform for campuses | [View →](https://github.com/Milap-Magar/Campus-Event-Management-System) |
-| ✨ **milexia** | Personal / product project | [View →](https://github.com/Milap-Magar/milexia) |
-| 📋 **Complain-Management-System** | Complaint tracking & management system | [View →](https://github.com/Milap-Magar/Complain-Management-System) |
-| 🔐 **Vault** | Secure storage / management system | [View →](https://github.com/Milap-Magar/Vault) |
 | 🖼️ **pixsift** | Image processing / sorting tool | [View →](https://github.com/Milap-Magar/pixsift) |
 | 📦 **shreejana-home-packing** | Home packing/logistics project | [View →](https://github.com/Milap-Magar/shreejana-home-packing) |
 
