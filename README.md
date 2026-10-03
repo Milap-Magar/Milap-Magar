@@ -88,9 +88,5 @@ I'm a **Software Engineer** with **2+ years of experience** across **full-stack 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,100:1e1e2e&height=120&section=footer"/>
-</div>
-
-<div align="center">
   <sub>⚡ Built with logic, shipped with intent — Milap Magar</sub>
 </div>
