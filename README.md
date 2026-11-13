@@ -77,16 +77,6 @@ I'm a **Software Engineer** with **2+ years of experience** across **full-stack 
 
 <br/>
 
-## 📌 Pinned Repositories
-
-| Repository | Description | Link |
-|---|---|---|
-| 🎓 **Campus-Event-Management-System** | Event management platform for campuses | [View →](https://github.com/Milap-Magar/Campus-Event-Management-System) |
-| 🖼️ **pixsift** | Image processing / sorting tool | [View →](https://github.com/Milap-Magar/pixsift) |
-| 📦 **shreejana-home-packing** | Home packing/logistics project | [View →](https://github.com/Milap-Magar/shreejana-home-packing) |
-
-<br/>
-
 <div align="center">
   <sub>⚡ Built with logic, shipped with intent — Milap Magar</sub>
 </div>
